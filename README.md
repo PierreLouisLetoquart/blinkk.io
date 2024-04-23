@@ -8,7 +8,7 @@ This project is a simple POC to demonstrate the use of RAG, PS, and simple summu
 
 ### How it works ?
 
-![arch schema](/assets/abc.png)
+<img src="/assets/abc.png" alt="arch schema" height="600">
 
 ## Google Custom Search JSON API
 
