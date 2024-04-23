@@ -6,6 +6,10 @@ The next generation search engine.
 
 This project is a simple POC to demonstrate the use of RAG, PS, and simple summurization techniques to create a search engine that can generate THE answer to a query.
 
+### How it works ?
+
+![arch schema]("./assets/abc.png")
+
 ## Google Custom Search JSON API
 
 For the step of fetching web resources. Requires a Google account.
